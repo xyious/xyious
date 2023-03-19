@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexandra Knopf (@xyious)
 - 👀 I’m interested in writing beautiful code
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently building a website in C++.... no seriously
 - 📫 xyious@gmail.com
 
 <!---
